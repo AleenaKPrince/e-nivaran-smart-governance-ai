@@ -1,0 +1,143 @@
+text,department
+streetlight not working,Electricity
+street light not working,Electricity
+streetlamp off at night,Electricity
+power outage in area,Electricity
+no electricity supply,Electricity
+current not available,Electricity
+electric pole damaged,Electricity
+electric pole broken,Electricity
+electric wire fallen,Electricity
+electric wire loose,Electricity
+transformer exploded,Electricity
+transformer not working,Electricity
+transformer sparking,Electricity
+voltage fluctuation issue,Electricity
+low voltage problem,Electricity
+high voltage issue,Electricity
+electric meter not working,Electricity
+electric meter damaged,Electricity
+electric line broken,Electricity
+electric line fallen,Electricity
+power failure in area,Electricity
+power cut frequently,Electricity
+electric supply interrupted,Electricity
+electricity not restored,Electricity
+electricity problem in street,Electricity
+sparking from pole,Electricity
+sparking from transformer,Electricity
+electric box damaged,Electricity
+electric junction problem,Electricity
+electric hazard in area,Electricity
+
+road damaged,Public Works
+road broken,Public Works
+potholes on road,Public Works
+big pothole on street,Public Works
+bridge damaged,Public Works
+bridge unsafe,Public Works
+road needs repair,Public Works
+road cracked,Public Works
+road collapsed,Public Works
+footpath damaged,Public Works
+footpath broken,Public Works
+road construction incomplete,Public Works
+road maintenance needed,Public Works
+public infrastructure damaged,Public Works
+road unsafe for travel,Public Works
+street surface damaged,Public Works
+highway damaged,Public Works
+road uneven,Public Works
+road repair required,Public Works
+
+bus accident reported,Transport
+bus breakdown,Transport
+bus not stopping,Transport
+bus delay issue,Transport
+bus service not available,Transport
+traffic congestion,Transport
+heavy traffic,Transport
+traffic jam problem,Transport
+public transport delay,Transport
+bus driver rash driving,Transport
+transport issue in area,Transport
+bus route problem,Transport
+bus service irregular,Transport
+transport complaint,Transport
+bus damaged,Transport
+vehicle blocking road,Transport
+public transport unsafe,Transport
+
+fire in building,Fire and Rescue
+fire accident reported,Fire and Rescue
+building on fire,Fire and Rescue
+gas leakage in house,Fire and Rescue
+gas smell detected,Fire and Rescue
+gas pipe leakage,Fire and Rescue
+gas cylinder leaking,Fire and Rescue
+gas explosion risk,Fire and Rescue
+fire emergency,Fire and Rescue
+smoke from building,Fire and Rescue
+smoke from transformer,Fire and Rescue
+fire hazard in area,Fire and Rescue
+fire breakout,Fire and Rescue
+flammable risk,Fire and Rescue
+gas leak emergency,Fire and Rescue
+fire rescue needed,Fire and Rescue
+fire safety issue,Fire and Rescue
+
+robbery reported,Police
+robbery near atm,Police
+theft in house,Police
+theft complaint,Police
+bike stolen,Police
+mobile stolen,Police
+crime reported,Police
+criminal activity reported,Police
+fraud case reported,Police
+fraud complaint,Police
+threat received,Police
+violence reported,Police
+fight in street,Police
+public disturbance,Police
+suspicious activity,Police
+illegal activity reported,Police
+harassment complaint,Police
+security issue,Police
+
+hospital negligence,Health
+medical emergency,Health
+clinic closed,Health
+doctor not available,Health
+hospital service poor,Health
+healthcare issue,Health
+patient emergency,Health
+ambulance not available,Health
+medical help needed,Health
+health risk reported,Health
+hospital complaint,Health
+medical facility problem,Health
+health department complaint,Health
+health service unavailable,Health
+
+
+garbage not collected,Local Self Government
+garbage overflowing,Local Self Government
+waste not cleaned,Local Self Government
+waste accumulated,Local Self Government
+drain blocked,Local Self Government
+drain overflow,Local Self Government
+drainage problem,Local Self Government
+sewage overflow,Local Self Government
+dirty street,Local Self Government
+area not cleaned,Local Self Government
+mosquito problem,Local Self Government
+sanitation issue,Local Self Government
+public place dirty,Local Self Government
+waste disposal issue,Local Self Government
+garbage lying on road,Local Self Government
+trash not removed,Local Self Government
+drainage not working,Local Self Government
+water stagnation,Local Self Government
+dirty surroundings,Local Self Government
+sewage blockage,Local Self Government
