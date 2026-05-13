@@ -1,0 +1,59 @@
+﻿.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.complaints-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.complaints-table th {
+    background: #1e40af;
+    color: white;
+    padding: 12px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.complaints-table td {
+    padding: 12px;
+    border-bottom: 1px solid #e5e7eb;
+    vertical-align: top;
+}
+
+.complaints-table tr:hover {
+    background: #f3f4f6;
+}
+
+.status-badge {
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.status-badge.Submitted {
+    background: #dbeafe;
+    color: #1e40af;
+}
+
+.status-badge.InProgress {
+    background: #fed7aa;
+    color: #c2410c;
+}
+
+.status-badge.Resolved {
+    background: #dcfce7;
+    color: #166534;
+}
+
+.status-badge.Rejected {
+    background: #fee2e2;
+    color: #991b1b;
+}
